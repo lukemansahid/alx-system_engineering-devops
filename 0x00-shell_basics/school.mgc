@@ -1,2 +1,4 @@
 0	string MONEY 
 !:mime text/school
+file --mime-type -m school.mgc *
+file -m school.mgc *
